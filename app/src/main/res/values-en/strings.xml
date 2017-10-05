@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Grades</string>
+    <string name="about" translatable="false">About</string>
+    <string name="titulo" translatable="false">MY GRADES</string>
+    <string name="mat1" translatable="false">Programming</string>
+    <string name="mat2" translatable="false">Database</string>
+    <string name="mensaje">Application for the calculation of the average of final grades of the subjects and the final average grade of the semester</string>
+    <string name="mensaje2">Select the subject in the options menu and enter the data</string>
+    <string name="botonfinal">Average Semester</string>
+    <string name="about_t">Developed by:</string>
+    <string name="botonabout">Return</string>
+    <string name="nota1">Grade 1:</string>
+    <string name="nota2">Grade 2:</string>
+    <string name="nota3">Grade 3:</string>
+    <string name="botoncalcular">Calculate</string>
+    <string name="msg1">The fields must be complete</string>
+    <string name="mat3">Mobile Development</string>
+    <string name="mat4">Business Administration</string>
+    <string name="mat5">Audit</string>
+    <string name="toast">The final average is </string>
+</resources>

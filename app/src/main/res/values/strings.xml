@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">Mis Notas</string>
+    <string name="mat1" translatable="false">Programación</string>
+    <string name="mat2" translatable="false">Bases de Datos</string>
+    <string name="about" translatable="false">Acerca de</string>
+    <string name="titulo" translatable="false">MIS NOTAS</string>
+    <string name="mensaje">Aplicación para el calculo del promedio de notas finales de las asignaturas y la nota promedio final del semestre</string>
+    <string name="mensaje2">Selecciona la asignatura en el menú de opciones e ingresa los datos</string>
+    <string name="botonfinal">Promedio del Semestre</string>
+    <string name="about_t">Desarrollado por:</string>
+    <string name="botonabout">Regresar</string>
+    <string name="nota1">Nota 1:</string>
+    <string name="nota2">Nota 2:</string>
+    <string name="nota3">Nota 3:</string>
+    <string name="botoncalcular">Calcular</string>
+    <string name="msg1">Los campos deben estar completos</string>
+    <string name="mat3">Desarrollo Móvil</string>
+    <string name="mat4">Administración de Empresas</string>
+    <string name="mat5">Auditoria</string>
+    <string name="toast">El promedio final es</string>
+</resources>
